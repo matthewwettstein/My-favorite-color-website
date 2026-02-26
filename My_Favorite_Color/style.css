@@ -1,0 +1,9 @@
+/* setup the page */
+body {
+    background-color: darkgreen;
+    color:greenyellow
+    font-family: 'Courier New', monospace;
+}
+h2 {
+    color:limegreen
+}
