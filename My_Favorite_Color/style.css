@@ -1,9 +1,16 @@
 /* setup the page */
+/* Line 1 */
 body {
-    background-color: darkgreen;
-    color:greenyellow
+    background-color: #006400;
+    color:#adff2f;
+}
+/* Line 2 */
+h2 {
+    color:limegreen;
     font-family: 'Courier New', monospace;
 }
-h2 {
-    color:limegreen
+/* Line 3 */
+h3 {
+    color:lightgreen;
+    font-family: Georgia, serif;
 }
